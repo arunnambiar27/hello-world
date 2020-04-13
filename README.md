@@ -1,5 +1,5 @@
 # hello-world
 Sample program to learn git
-Hi There,
+Hi All, 
 
-Arun this side !!
+I am Arun.Interested in learning new technologies.Apart from that i love reading books and watching movies.
